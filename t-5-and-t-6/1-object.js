@@ -156,3 +156,4 @@ const nestedObj = {
 const nestedClone = structuredClone(nestedObj);
 nestedObj.version = 5.2
 console.log(nestedClone);
+
